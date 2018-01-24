@@ -1,0 +1,18 @@
+# Uncomment data set to use it, empty for notebook camera
+#videoPath=
+#videoPath=data/BlurBody/img/%4d.jpg
+#videoPath=data/Box/img/%4d.jpg
+#videoPath=data/Car4/img/%4d.jpg
+#videoPath=data/ClifBar/img/%4d.jpg
+#videoPath=data/Crowds/img/%4d.jpg
+#videoPath=data/David/img/%4d.jpg
+#videoPath=data/DragonBaby/img/%4d.jpg
+#videoPath=data/Girl/img/%4d.jpg
+#videoPath=data/Surfer/img/%4d.jpg
+#videoPath=data/Walking/img/%4d.jpg
+groundTruthFileName=groundtruth_rect.txt
+errorFileName=error_
+bUseGroundTruth=true
+bWriteErrorToFile=false
+# Starting tracker 0 = LK, 1 = MS
+currentTracker=0
