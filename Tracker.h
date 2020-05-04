@@ -2,8 +2,8 @@
 // Created by Patrick Werner (boonto) on 25.11.17.
 //
 
-#ifndef CV_PROJECT_TRACKER_H
-#define CV_PROJECT_TRACKER_H
+#ifndef TRACKING_TRACKER_H
+#define TRACKING_TRACKER_H
 
 #include <opencv2/core/types.hpp>
 
@@ -20,4 +20,4 @@ public:
     virtual std::string classname() const = 0;
 };
 
-#endif //CV_PROJECT_TRACKER_H
+#endif //TRACKING_TRACKER_H

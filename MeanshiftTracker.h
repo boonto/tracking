@@ -2,8 +2,8 @@
 // Created by Patrick Werner (boonto) on 25.11.17.
 //
 
-#ifndef CV_PROJECT_MEANSHIFTTRACKER_H
-#define CV_PROJECT_MEANSHIFTTRACKER_H
+#ifndef TRACKING_MEANSHIFTTRACKER_H
+#define TRACKING_MEANSHIFTTRACKER_H
 
 #include <opencv2/tracking.hpp>
 #include "Tracker.h"
@@ -54,4 +54,4 @@ private:
 };
 
 
-#endif //CV_PROJECT_MEANSHIFTTRACKER_H
+#endif //TRACKING_MEANSHIFTTRACKER_H

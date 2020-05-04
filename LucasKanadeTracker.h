@@ -2,8 +2,8 @@
 // Created by Patrick Werner (boonto) on 25.11.17.
 //
 
-#ifndef CV_PROJECT_LUCASKANADETRACKER_H
-#define CV_PROJECT_LUCASKANADETRACKER_H
+#ifndef TRACKING_LUCASKANADETRACKER_H
+#define TRACKING_LUCASKANADETRACKER_H
 
 #include <opencv2/tracking.hpp>
 #include "Tracker.h"
@@ -69,4 +69,4 @@ private:
 };
 
 
-#endif //CV_PROJECT_LUCASKANADETRACKER_H
+#endif //TRACKING_LUCASKANADETRACKER_H
